@@ -10,8 +10,7 @@
 * Установить на ПК пакет docker
 * выставить настройки в config/settings.py
 
-### 
-    ALLOWED_HOSTS=*
+###
     LANGUAGE_CODE='ru-ru'
     TIME_ZONE='Europe/Novosibirsk'
     STRIPE_API_KEY=<STRIPE_API_KEY>
