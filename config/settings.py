@@ -96,6 +96,7 @@ DATABASES = {
         'NAME': 'store_diplom',
         'USER': 'postgres',
         'PASSWORD': '1234567',
+        'HOST': 'db'
     }
 }
 
