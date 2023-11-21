@@ -8,12 +8,12 @@
 ***
 ### Прежде чем начать использовать проект нужно:
 * Установить на ПК пакет docker
-* выставить настройки в config/settings.py
+* выставить настройки в файле env.sample
 
 ###
     LANGUAGE_CODE='ru-ru'
-    TIME_ZONE='Europe/Novosibirsk'
-    STRIPE_API_KEY=<STRIPE_API_KEY>
+    TIME_ZONE='Europe/Moscow'
+    STRIPE_API_KEY=
     POSTGRES_DB=
     POSTGRES_USER=
     POSTGRES_PASSWORD=
